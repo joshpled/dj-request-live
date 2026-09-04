@@ -1,0 +1,9 @@
+DJ REQUEST LIST — SHOWCASE
+
+Open “DJ Request List — Presentation.html” with the media folder beside it. Use arrow keys to navigate, Space to play or pause, and F for fullscreen. The presentation works offline; the final slide opens the current Cloudflare app when online.
+
+“DJ Request List — Showcase.mp4” is a 1920×1080, 30 fps, silent video with animated text and transitions. Source audio was intentionally muted.
+
+The private guest link appears in the HTML. Share only with intended recipients. No admin PIN is included.
+
+The phone and laptop recordings use synthetic sample data in an isolated local copy. The live app, event database, Spotify account, and wedding-camera app were not modified or published.
